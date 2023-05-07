@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\HWDispatcher\bin\x86\Release\HWDispatcher.exe.config
+C:\Users\Alex\source\repos\HWDispatcher\bin\x86\Release\HWDispatcher.exe
+C:\Users\Alex\source\repos\HWDispatcher\bin\x86\Release\HWDispatcher.pdb
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.Form1.resources
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.Properties.Resources.resources
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.exe
+C:\Users\Alex\source\repos\HWDispatcher\obj\x86\Release\HWDispatcher.pdb
